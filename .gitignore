@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.pid.lock
+
+# Environment variables
+.env
+.env.*.local
+
+# Build outputs
+dist/
+build/
+
+# Cache and temp files
+*.cache
+.tmp/
+coverage/
+.cache/
+
+# Editor and system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# npm / Yarn / pnpm lock files (optional if using one exclusively)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Miscellaneous
+*.bak
